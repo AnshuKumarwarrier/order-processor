@@ -1,6 +1,0 @@
-com\planet\service\OrderService.class
-com\planet\service\OrderServiceImpl.class
-com\planet\controller\OrderController.class
-com\planet\OrderProcessorApplication.class
-com\planet\model\Order.class
-com\planet\repository\OrderRepository.class
